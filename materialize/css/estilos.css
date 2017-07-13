@@ -1,0 +1,22 @@
+body{
+	background-image: url("../img/turismoparis.jpg") !important;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-attachment: fixed;
+}
+.navegador{
+height: 180px;
+}
+.logo{
+	border-radius: 30px !important;
+	margin-bottom: 10px;
+}
+.slogan{
+	font-size: 30px;
+}
+#buceo{
+	height: 1080px;
+}
+.images{
+	border-radius: 15px;
+}
